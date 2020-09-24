@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Артем Барденков](https://up.htmlacademy.ru/javascript/21/user/979041).
-* Наставник: `Неизвестно`.
+* Наставник: `Максим Усиков`.
 
 ---
 
